@@ -1,11 +1,8 @@
 package testscript;
 
 import java.io.IOException;
-
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import constant.Constant;
 import pages.AdminUsersPage;
 import pages.HomePage;

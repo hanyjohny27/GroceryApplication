@@ -1,12 +1,9 @@
 package testscript;
 
 import java.io.IOException;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import constant.Constant;
-import pages.AdminUsersPage;
 import pages.HomePage;
 import pages.LoginPage;
 import pages.ManageDeliveryBoyPage;

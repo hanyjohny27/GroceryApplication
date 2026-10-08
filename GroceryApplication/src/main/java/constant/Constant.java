@@ -9,7 +9,6 @@ public static final String VALID_CREDENTIAL_ERROR="User is unable to login with 
 public static final String INVALIDUSERNAME_AND_INVALIDPASSWORD_ERROR="User is able to login with invalid credentails";
 public static final String VALIDUNAME_AND_INVALIDPWD_ERROR="User is able to login with valid uname and invalid pwd";
 public static final String INVALIDUNAME_AND_VALIDPWD_ERROR="User is able to login with invalid Uname And  Valid Pwd";
-
 public static final String LOGOUT_ERROR= "User is unable to logout";
 public static final String NEWADMINUSER_ERROR="New Admin User is not added";
 public static final String SEARCHADMINUSER_ERROR="searched Admin user is not found";

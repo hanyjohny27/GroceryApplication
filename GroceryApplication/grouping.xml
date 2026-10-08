@@ -3,7 +3,8 @@
 <suite name="Grouping">
   <test thread-count="5" name="Test">
   <parameter name="browsers" value="firefox"></parameter> 
-  <groups><run><include name="smoke"></include></run></groups>
+  <groups><run><include name="
+"></include></run></groups>
   
     <classes>
      

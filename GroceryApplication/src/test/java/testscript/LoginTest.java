@@ -1,17 +1,12 @@
 package testscript;
 
 import java.io.IOException;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
 import constant.Constant;
 import pages.HomePage;
 import pages.LoginPage;
-//import pages.LoginPage;
 import utilities.ExcelUtility;
 
 public class LoginTest extends Base{

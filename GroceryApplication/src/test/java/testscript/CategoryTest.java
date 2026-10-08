@@ -2,9 +2,6 @@ package testscript;
 
 import java.awt.AWTException;
 import java.io.IOException;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -12,7 +9,6 @@ import constant.Constant;
 import pages.CategoryPage;
 import pages.HomePage;
 import pages.LoginPage;
-import pages.ManageDeliveryBoyPage;
 import utilities.ExcelUtility;
 import utilities.RandomDataUtility;
 
